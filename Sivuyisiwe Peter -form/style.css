@@ -104,27 +104,27 @@ h1{
         z-index: -1;
       }
       .c8{
-        background-color:#5c5656;
+        background-color:#666262;
         width: 200px;
         height: 200px;
         border-radius: 100px;
-        position: relative; bottom: 1550px ;left: 420px;
+        position: relative; bottom: 1500px ;left: 460px;
         z-index: -1;
       }
       .c9{
-        background-color:#969090;
+        background-color:#554d4d;
         width: 200px;
         height: 200px;
         border-radius: 100px;
-        position: relative; top: -550px ;left: 350px;
+        position: relative; bottom: 1680px ;left: 780px;
         z-index: -1;
       }
       .c10{
-        background-color:#423f3f;
+        background-color:#3d3838;
         width: 200px;
         height: 200px;
         border-radius: 100px;
-        position: relative; top: -550px ;left: 350px;
+        position: relative; bottom: 1860px ;left: 640px;
         z-index: -1;
       }
         
